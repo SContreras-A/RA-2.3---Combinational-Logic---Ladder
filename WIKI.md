@@ -110,6 +110,8 @@ Con las variables definidas en el software OpenPLC, se procede a seleccionar la 
 
 Una vez realizado el mapeo de los pines digitales del Arduino, se procede a compilar el sistema y cargar el programa en la placa Arduino Uno previamente conectada. Este proceso permite transferir la lógica desarrollada en OpenPLC al dispositivo físico, habilitando así la ejecución del sistema en un entorno real. El funcionamiento obtenido se evidencia en el registro videográfico presentado a continuación, el cual muestra tanto la operación del sistema como el desarrollo completo de la solución.
 
+#### [VIDEO SOLUCIÓN](https://unisabanaedu-my.sharepoint.com/:v:/g/personal/santiagocoar_unisabana_edu_co/IQDrp6iha285SqjjMcYUiNAmAf-IZ4L-ZHPhWT7lgZNIrWU?e=hAtWXy)
+
 
 
 
